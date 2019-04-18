@@ -1,1 +1,14 @@
-{"result": "success", "id": 5224, "Version": "1.4", "URL": "https://www.icloud.com/shortcuts/83fc95c5e2474466a7b2501643dc5bdb", "Notes": "Added Filzaescaped12.X", "Release": "February 05, 2019"}
+{
+	"TAL": {
+		"Version": "1.2",
+		"URL": "https://www.icloud.com/shortcuts/6092e325c19447bcb9786e6b2cef7f82",
+		"Notes": "Bug Fixes",
+		"Release": "April 18, 2019"
+	},
+	"Example": {
+		"Version": "0.1",
+		"URL": "",
+		"Notes": "",
+		"Release": "April 18, 2019"
+	}
+}

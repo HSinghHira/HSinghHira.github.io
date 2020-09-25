@@ -1,6 +1,6 @@
-                body {
+body {
                     font-family: &#39;Karla&#39;, sans-serif !important;
-                }
+}
 body[data-theme-style="dark"].bg-white {
 	background: var(--body-bg) !important;
 }
@@ -956,3 +956,139 @@ h1, .h1 {
 .link-body-background-six {
     background: linear-gradient(to bottom, #fc5c7d, #6a82fb);
 }
+#sidebar3 {
+    display: none;
+}
+#contacts-forms {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#widget-contact {
+    border: 2px solid #e74c3c;
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    width: 400px;
+    height: auto;
+    background-color: #fff;
+    z-index: 1000;
+    display: none;
+    margin: 0 0 0 -200px;
+}
+
+#area-overlay {
+    position: fixed !important;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+    display: none;
+}
+
+.buka-contact {
+    width: 100%;
+    padding: 10px;
+    background: #e74c3c;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.buka-contact:hover {
+    background: #d00;
+}
+.contact-form-widget {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    max-width: 100%;
+    padding: 25px;
+    background: #fff;
+}
+.contact-title {
+    text-align: center;
+    font: 41px fantasy;
+    color: #121212;
+    margin-bottom: 25px;
+}
+.contactf-name,
+.contactf-email {
+    float: left;
+    width: 47%;
+}
+.contactf-name {
+    margin-right: 6%;
+}
+.name-icon img,
+.email-icon img {
+    background: transparent !important;
+    border: medium none !important;
+    box-shadow: none !important;
+    width: 16px !important;
+    height: 16px !important;
+}
+.name-icon,
+.email-icon {
+    position: absolute;
+    z-index: 1;
+}
+.contact-form-name,
+.contact-form-email,
+.contact-form-email-message,
+.contact-form-name:hover,
+.contact-form-name:focus,
+.contact-form-email:hover,
+.contact-form-email:focus,
+.contact-form-email-message:hover,
+.contact-form-email-message:focus {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 25px;
+    padding: 10px 10px 10px 25px;
+    font: bold 16px;
+    text-shadow: 0 1px 2px #ddd;
+    color: #121212;
+    background: transparent !important;
+    border-color: #121212;
+    border-width: 0 0 2.5px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.contact-form-name,
+.contact-form-email {
+    height: 40px;
+}
+.contact-form-email-message,
+.contact-form-email-message:hover,
+.contact-form-email-message:focus {
+    padding: 10px !important;
+}
+.contact-form-email-message {
+    height: 150px;
+    border-width: 2.5px !important;
+}
+.contact-form-button-submit,
+.contact-form-button-submit:hover {
+    background: #121212 !important;
+    width: 30%;
+    height: 37px;
+    font: bold 13px "Lucida Grande";
+    letter-spacing: 2px;
+    color: #fff;
+    text-align: center;
+    border: medium none;
+    cursor: pointer;
+    display: inline;
+    margin: 0 auto;
+    outline: none;
+}
+.contact-form-cross {
+    border: medium none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    width: 11px !important;
+    height: 11px !important;
+}
+

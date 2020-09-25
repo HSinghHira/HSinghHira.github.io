@@ -987,17 +987,7 @@ h1, .h1 {
     display: none;
 }
 
-.buka-contact {
-    width: 100%;
-    padding: 10px;
-    background: #e74c3c;
-    color: #fff;
-    font-size: 16px;
-    cursor: pointer;
-}
-.buka-contact:hover {
-    background: #d00;
-}
+
 .contact-form-widget {
     margin-left: auto;
     margin-right: auto;

@@ -906,7 +906,7 @@ dark&quot;
  .name-icon, .email-icon {
      position: absolute;
      z-index: 1;
-     margin: 4px;
+     margin: 1px;
 }
  .contact-form-name, .contact-form-email, .contact-form-email-message, .contact-form-name:hover, .contact-form-name:focus, .contact-form-email:hover, .contact-form-email:focus, .contact-form-email-message:hover, .contact-form-email-message:focus {
      width: 100%;

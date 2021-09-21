@@ -762,12 +762,6 @@ dark&quot;
  .link-html {
      min-height: 100%;
 }
- .link-body {
-     background-size: cover !important;
-     background-position: center center !important;
-     background-repeat: no-repeat !important;
-     min-height: 100%;
-}
  .link-content {
      padding-top: 2rem;
 }

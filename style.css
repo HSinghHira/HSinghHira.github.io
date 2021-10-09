@@ -978,4 +978,57 @@ dark&quot;
      float: right;
      margin: 7px;
 }
- 
+ .accordion__item {
+	margin: 5px auto;
+}
+.accordion__item .accordion__title {
+	position: relative;
+	display: block;
+	padding: 13px 60px 15px 13px;
+	margin-bottom: 2px;
+	color: #fff;
+	text-decoration: none;
+	background-color: #000;
+	border-radius: 3px;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+  	cursor: pointer;
+  	font-weight: bold;
+}
+.accordion__item .accordion__title:hover {
+	background-color: #000;
+	transition: all 0.5s ease-out;
+}
+.accordion__item .accordion-active {
+	background-color: #000;
+}
+.accordion__item .accordion__title .accordion__arrow {
+	position: absolute;
+	top: 13px; right: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	color: #fff;
+	line-height: 30px;
+	font-size: 20px;
+	font-weight: 700;
+	margin-right: 5px;
+	border-radius: 50%;
+	-webkit-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+}
+.accordion__item .accordion__rotate {
+	transform: rotate(225deg);
+}
+.accordion__item .accordion__content {
+	padding: 10px;
+	margin-bottom: 2px;
+	font-size: 18px;
+	display: none;
+	background-color: #f3f3f3;
+}
+.accordion__item .accordion__arrow-item {
+	font-weight: 700;
+}

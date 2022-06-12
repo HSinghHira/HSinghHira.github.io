@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Dotti Try Again",
+  "version": "0.2.1",
+  "description": "Made by Harman Singh Hira",
+  "content_scripts": [
+    {
+      "matches": ["*://training.dominos.com.au/*"],
+      "js": ["content.js"
+      ]
+    }
+  ]
+}

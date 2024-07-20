@@ -1,0 +1,51 @@
+{
+  "education": [
+    {
+      "institution": "Yoobee College of Creative Innovation",
+      "area": "",
+      "studyType": "Diploma in Cloud Engineering",
+      "startDate": "2023-09-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2024-09-01",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKwJUO3rQjkFURAs_hkx8sz8QMk5MaGZ1yVxTHDRe7-OzwVQv4hkfu0GR-zHql_JRsHpMqPMwYJXorZ0oMVOLJQ5axkMIe4McAayXgjwK0GkLPjIdIowsCDbNKgVd66ETHz3EdcB80VAM9dgSVfbdmIUAs93iGoaBengNiN2AmXgJ11RYeWLt8Bq6rVG8i/s1600/yoobee.jpg"
+    },
+    {
+      "institution": "NZMA",
+      "area": "",
+      "studyType": "New Zealand Diploma in Business",
+      "startDate": "2017-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-12-01",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7noutPMAQEj-m9KuusBlyX20kz0YJiKqNJ7sYNrWirmvv4GmadOqmH9IA4OkYlZxmRe3ot0x7-9_fkWu-xaiCrdeULLr8D3jVh3pPU7PtF51CTe5Gcvqy4EFUFRSTBbrlBLkk0cm_-PyjQNXxlK864jIPu-DSOoin02cJ4HQMHC5BE-zrdb8Po06E5clU/s1600/nzma.jpg"
+    },
+    {
+      "institution": "New Zealand National Collge",
+      "area": "",
+      "studyType": "National Diploma in Business",
+      "startDate": "2016-02-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "Ambedkar Institute of Hotel Management, Chandigarh, India",
+      "area": "",
+      "studyType": "Diploma in Hotel Management",
+      "startDate": "2015-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2015-01-01"
+    },
+    {
+      "institution": "Softbrains",
+      "area": "",
+      "studyType": "Advance Diploma in Computer Science",
+      "startDate": "2013-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-12-01"
+    }
+  ]
+}

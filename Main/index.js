@@ -12,7 +12,7 @@ function updatePageURL(page) {
 }
 
 function hsinghhira(e) {
-    var contentDiv = document.getElementById('content123');
+    var contentDiv = document.getElementById('content');
   contentDiv.innerHTML = ''; // Clear previous content
 
   for (var t = 0; t < e.feed.entry.length; t++) {

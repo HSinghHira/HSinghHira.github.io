@@ -1,0 +1,93 @@
+{
+  "work": [
+    {
+      "company": "Bridgestone NZ Ltd",
+      "position": "Support Manager",
+      "term": "Full Time",
+      "startDate": "2022-12-01",
+      "summary": "As a dedicated Support Manager at Bridgestone, I lead a dynamic team to deliver exceptional customer service and ensure smooth operations. With a passion for problem-solving and a commitment to excellence, I drive customer satisfaction and operational efficiency in the ever-evolving automotive industry.",
+      "image": "src/assets/data/logos/bridgestone.jpg"
+    },
+    {
+      "company": "Hell Pizza",
+      "position": "Store Manager",
+      "term": "Full Time",
+      "startDate": "2022-05-01",
+      "summary": "My job at Hell Pizza is to drive sales and service metrics to achieve weekly targets, coach and develop a high-performing team and ensure they have the tools, training and motivation to maintain operational standards. Moreover, assist with recruitment, on-boarding and training new team members. Ensure store operations and franchise standards are implemented and maintained, ordering and managing stock levels. At last, complete weekly rosters and ensure they are within the budgeted hours",
+      "endDate": "2022-12-01",
+      "image": "src/assets/data/logos/hell.jpg"
+    },
+    {
+      "company": "Domino's",
+      "position": "Regional Manager",
+      "term": "Full Time",
+      "startDate": "2021-07-01",
+      "summary": "I was responsible to look after the operations of two Domino's Pizza store. My jobs were to train and assist shift managers and store manager. Helping store managers to make the rosters to meet the business labour requirement. Conducting interviews to recruit new people for the business. Looking after the brand standards by following all mandatory rules and regulations. Moreover, Identifying potential community partners. Controlling the cost that includes food, labour, mileage (FLM). Creating a local store marketing plan. Responding to customer complaints in a quick and positive manner. At last, maintain in-depth knowledge of all safety and security standards.",
+      "endDate": "2022-05-01",
+      "image": "src/assets/data/logos/dominos.png"
+    },
+    {
+      "company": "Domino's",
+      "position": "Store Manager",
+      "term": "Full Time",
+      "startDate": "2021-05-01",
+      "summary": "My additional jobs after promotion were adjusting and making rosters according to requirement. Conducting the stock-takes to identifying the stock variance. Moreover, training staff in all areas and having monthly staff meetings to set future goals. Maintain in-depth knowledge of all safety and security standards. At last, looking after the brand standards by following all mandatory rules and regulations.",
+      "endDate": "2021-07-01",
+      "image": "src/assets/data/logos/dominos.png"
+    },
+    {
+      "company": "Domino's",
+      "position": "Assistant Manager",
+      "term": "Full Time",
+      "startDate": "2020-10-01",
+      "summary": "I was managing the shift according to the store standards and requirement. My jobs were to look after cash and ensuring the proper management of the cash happening on premises. Moreover, customer service, make delicious pizzas & shakes, etc. Ensure team members comply with policies and standards.",
+      "endDate": "2021-05-01",
+      "image": "src/assets/data/logos/dominos.png"
+    },
+    {
+      "company": "Gull New Zealand Ltd",
+      "position": "Retail Salesperson",
+      "term": "Part Time",
+      "startDate": "2019-11-01",
+      "summary": "Providing excellent quality of service to the customers, operating advanced POS, cash handling, preventing shop lifting, analysing stock and recording sales data.",
+      "endDate": "2020-10-01",
+      "image": "src/assets/data/logos/gull.jpg"
+    },
+    {
+      "company": "Foodstuffs North Island Limited",
+      "position": "Inventory Controller",
+      "term": "Part Time Casual",
+      "startDate": "2019-06-01",
+      "summary": "My job is to look after inventory office and perform various tasks such as doing Mark outs, Cycle Counts, Audits, Invoices, product adjustments and so on while using very advance computer software. Moreover, giving pickup jobs to other workers on frontend and receive order from all over the stores across north island though a dedicated online system.",
+      "endDate": "2019-11-01",
+      "image": "src/assets/data/logos/foodstuff.jpg"
+    },
+    {
+      "company": "Mobil Oil",
+      "position": "Sales Associate",
+      "term": "Part Time",
+      "startDate": "2018-06-01",
+      "summary": "Providing excellent quality of service to the customers, operating advanced POS, cash handling, preventing shop lifting, analysing stock and recording sales data.",
+      "endDate": "2019-03-01",
+      "image": "src/assets/data/logos/mobil.jpg"
+    },
+    {
+      "company": "Domino's",
+      "position": "Team Member",
+      "term": "Full Time",
+      "startDate": "2017-11-01",
+      "summary": "My responsibility was to make delicious Pizzas & Shakes for customers, taking orders, cash handling, preparing dough and delivering pizzas on time.",
+      "endDate": "2020-10-01",
+      "image": "src/assets/data/logos/dominos.png"
+    },
+    {
+      "company": "Kmart Australia Limited",
+      "position": "Team Member",
+      "term": "Part Time",
+      "startDate": "2017-02-01",
+      "summary": "Responsible for processing and allocating merchandise that was to be dispatched across North Island retail stores, whilst meeting tight time frames.",
+      "endDate": "2017-11-01",
+      "image": "src/assets/data/logos/kmart.jpg"
+    }
+  ]
+}

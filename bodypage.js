@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   
     document.addEventListener('DOMContentLoaded', () => {
-      fetch('work.json')
+      fetch('/work.json')
           .then(response => response.json())
           .then(data => {
               const workExperienceContainer = document.getElementById('work');
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
           .catch(error => console.error('Error fetching the work experience data:', error));
   });
   document.addEventListener('DOMContentLoaded', () => {
-      fetch('edu.json')
+      fetch('/edu.json')
           .then(response => response.json())
           .then(data => {
               const workExperienceContainer = document.getElementById('edu');
